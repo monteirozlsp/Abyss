@@ -1,0 +1,6 @@
+{
+  "name": "Project Abyss",
+  "description": "Documentação e Game Design Document (GDD) da Etapa 1 para o jogo de terror psicológico Project Abyss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
